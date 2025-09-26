@@ -11,7 +11,7 @@ The **Pizza Order System** is a web application built with Laravel that allows c
 - Order summary and checkout  
 - Customer ratings and feedback  
 - Admin dashboard for managing orders, pizzas, and categories  
-- Secure authentication (with Google login option if added)  
+- Secure authentication 
 
 ---
 
@@ -19,7 +19,7 @@ The **Pizza Order System** is a web application built with Laravel that allows c
 - **Backend:** Laravel (PHP)  
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript  
 - **Database:** MySQL  
-- **Authentication:** Laravel Breeze / Socialite (if used)  
+- **Authentication:** Laravel Breeze 
 
 ---
 
